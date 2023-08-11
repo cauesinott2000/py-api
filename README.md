@@ -23,7 +23,7 @@ def hello():
 ```
 
 ## Informações úteis
-[Socket Programming in Python (Guide) - Real Python](https://realpython.com/python-sockets/);
-[socket - Low-level networking interface - Python 3.11.4 documentation](https://docs.python.org/3/library/socket.html);
-[FastAPI - Home](https://fastapi.tiangolo.com/);
-[Tutorial - User Guide - FastAPI](https://fastapi.tiangolo.com/tutorial/).
+- [Socket Programming in Python (Guide) - Real Python](https://realpython.com/python-sockets/);
+- [socket - Low-level networking interface - Python 3.11.4 documentation](https://docs.python.org/3/library/socket.html);
+- [FastAPI - Home](https://fastapi.tiangolo.com/);
+- [Tutorial - User Guide - FastAPI](https://fastapi.tiangolo.com/tutorial/).
